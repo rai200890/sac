@@ -1,6 +1,6 @@
 # SAC
 
-  Sistemaonde se é possível cadastrar e listar atendimentos.
+  Sistema onde se é possível cadastrar e listar atendimentos.
   Essa aplicação é composta por 2 partes:
 
 ##sac-api
